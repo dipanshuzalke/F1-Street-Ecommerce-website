@@ -64,7 +64,7 @@ A minimal yet dynamic e-commerce web app designed for an **F1-inspired streetwea
 
 ## 📬 Contact
 
-Made with ❤️ by [Your Name]  
+Made with ❤️ by Dipanshu Zalke  
 📧 dipanshuzalke@gmail.com  
 🔗 [Portfolio](https://dipanshuzalke.xyz)
 
